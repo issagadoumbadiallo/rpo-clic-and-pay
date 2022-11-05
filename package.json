@@ -6,7 +6,7 @@
   "author": "Rich Lewis",
   "license": "MIT",
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-build": "^0.5.3",
     "gulp-webserver": "^0.9.1",
     "request-promise": "^1.0.2"
